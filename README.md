@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Elijah Rumi  
 
 🚀 **Software Engineer | ICT Project Manager | SaaS Enthusiast**  
 
