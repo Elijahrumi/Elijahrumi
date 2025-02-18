@@ -1,7 +1,24 @@
-- 👋 Hi, I’m @Elijahrumi
-- I am a professional software developer and ICT Consultant with over 3 years of experience in web development, website design and mobile application development with specialty in backend development.
-- I posess strong creative and analytical skills whilst being a team player with a keen eye for detail 
+# 👋 Hi, I'm [Your Name]  
 
-- 📫 How to reach me: you could reach out to me on my email at elijahrumi@gmail.com
+🚀 **Software Engineer | ICT Project Manager | SaaS Enthusiast**  
 
-<!------>
+With over **4 years of experience**, I specialize in **backend development, UI enhancement, and scalable software solutions**. I have a strong background in **ICT project management** and have led teams to build  **high-impact applications**.  
+
+## 🔧 Tech Stack & Skills  
+- **Backend & SaaS Development:** PHP (Laravel),Node, MySQL  
+- **Frontend & UI Enhancement:** Vue.js, React, HTML, CSS, JS  
+- **Mobile App Development:** Dart/Flutter  
+- **CMS & Web Development:** WordPress  
+- **Cloud & DevOps:** AWS (EC2, Elastic IP, RDS, S3)  
+- **Agile & Team Leadership:** Sprint planning, version control, and deployments  
+
+## 🌱 Currently Exploring  
+- Advanced **AWS deployments**  
+- **DevOps & Automation**  
+- **Real-time APIs & Scalable Architectures**  
+
+💡 Passionate about **creating impactful solutions that drive user engagement and business growth**.  
+
+📫 **Let's connect:**  
+- **GitHub:** [github.com/Elijahrumi](https://github.com/Elijahrumi)  
+- **Email:** elijahrumi@gmail.com  
