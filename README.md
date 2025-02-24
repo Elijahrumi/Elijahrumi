@@ -2,7 +2,7 @@
 
 🚀 **Software Engineer | ICT Project Manager | SaaS Enthusiast**  
 
-With over **4 years of experience**, I specialize in **backend development, UI enhancement, and scalable software solutions**. I have a strong background in **ICT project management** and have led teams to build  **high-impact applications**.  
+With over **4 years of experience**, I specialize in **backend development, Frontend development, and scalable software solutions**. I have a strong background in **ICT project management** and have led teams to build  **high-impact applications**.  
 
 ## 🔧 Tech Stack & Skills  
 - **Backend & SaaS Development:** PHP (Laravel),Node, MySQL  
